@@ -5,4 +5,4 @@ email: webmaster@tc4.space
 description: An Official Tidewater Community College Student Organization
 
 #build settings
-theme: jekyll-theme-hacker
+theme: minima
