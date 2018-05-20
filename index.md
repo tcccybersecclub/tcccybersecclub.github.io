@@ -1,5 +1,5 @@
 ## Summer Sessions
-### *Schedule has changed* we are now meeting on Fridays from 6 - 9 PM
+### **Schedule has changed** we are now meeting on Fridays from 6 - 9 PM
 
 ```
 - 25 May: No meeting due to Holiday
